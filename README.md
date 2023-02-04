@@ -27,3 +27,10 @@ for each heart beat
 ● Buttons are normally open buttons
 ● LED is a normal red LED with a voltage drop of 2V
 ● Buzzer is a 5V buzzer which sounds when a 5V is connected to its inpu
+
+
+Here Is the Project video
+
+
+https://user-images.githubusercontent.com/73857229/216760363-04d94301-4bdb-4f86-8860-84ec21740336.mp4
+
